@@ -4,10 +4,10 @@
     <title>blog</title>
     <description>more mindless musings
 </description>
-    <link>https//blog.pascualy.org/</link>
-    <atom:link href="https//blog.pascualy.org/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 08 Dec 2017 20:23:00 -0500</pubDate>
-    <lastBuildDate>Fri, 08 Dec 2017 20:23:00 -0500</lastBuildDate>
+    <link>https//travel.pascualy.org/</link>
+    <atom:link href="https//travel.pascualy.org/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Fri, 08 Dec 2017 20:23:49 -0500</pubDate>
+    <lastBuildDate>Fri, 08 Dec 2017 20:23:49 -0500</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -53,8 +53,8 @@
 &lt;/blockquote&gt;
 </description>
         <pubDate>Sun, 30 Nov 2014 09:34:25 -0500</pubDate>
-        <link>https//blog.pascualy.org/mediator/feature/2014/11/30/mediator_features.html</link>
-        <guid isPermaLink="true">https//blog.pascualy.org/mediator/feature/2014/11/30/mediator_features.html</guid>
+        <link>https//travel.pascualy.org/mediator/feature/2014/11/30/mediator_features.html</link>
+        <guid isPermaLink="true">https//travel.pascualy.org/mediator/feature/2014/11/30/mediator_features.html</guid>
         
         <category>featured</category>
         
@@ -91,8 +91,8 @@
 
 </description>
         <pubDate>Fri, 29 Aug 2014 10:34:25 -0400</pubDate>
-        <link>https//blog.pascualy.org/jekyll/update/2014/08/29/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">https//blog.pascualy.org/jekyll/update/2014/08/29/welcome-to-jekyll.html</guid>
+        <link>https//travel.pascualy.org/jekyll/update/2014/08/29/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">https//travel.pascualy.org/jekyll/update/2014/08/29/welcome-to-jekyll.html</guid>
         
         <category>featured</category>
         
